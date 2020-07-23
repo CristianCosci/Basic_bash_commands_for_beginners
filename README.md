@@ -16,7 +16,8 @@ pippo /home/pippo
 
 
 
-3) Write a bash script with the following operation:- Riceve un e un solo argomento, in caso contrario restituisce un errore
+3) Write a bash script with the following operation:
+- It receives one and only one argument, otherwise it returns an error
 - If the argument is not a directory, it returns an error
 - If the argument is a directory, create a tar.gz archive with the name of the directory given as input
 - If the command to create the archive has failed, it returns an error
